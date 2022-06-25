@@ -1,5 +1,5 @@
-# nuwe
-Nuwe Stuff: API implementing and endpoint that converts CSV files to JSON
+# Nuwe Stuff
+API implementing and endpoint that converts CSV files to JSON
 
 Usage, initialize API:
 
