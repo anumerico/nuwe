@@ -3,10 +3,10 @@ Nuwe Stuff: API implementing and endpoint that converts CSV files to JSON
 
 Usage, initialize API:
 
-git clone https://github.com/anumerico/nuwe.git
-cd nuwe
-npm install
-node nuwe.js
+git clone https://github.com/anumerico/nuwe.git\
+cd nuwe\
+npm install\
+node nuwe.js\
 
 Test:
 
