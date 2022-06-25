@@ -2,7 +2,7 @@
 API implementing and endpoint that converts CSV files to JSON\
 Endpoint at /upload-csv
 
-Usage, initialize API:
+Usage, install and initialize API:
 
 git clone https://github.com/anumerico/nuwe.git \
 cd nuwe\
