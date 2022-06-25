@@ -1,26 +1,10 @@
 {
-  "name": "nuwe",
-  "version": "1.0.0",
-  "description": "Nuwe Stuff",
+  "name": "csv-upload",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anumerico/nuwe.git"
-  },
-  "keywords": [],
-  "author": "pikachu",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anumerico/nuwe/issues"
-  },
-  "homepage": "https://github.com/anumerico/nuwe#readme",
-  "devDependencies": {
-    "eslint": "^8.18.0"
-  },
   "dependencies": {
-    "express": "^4.18.1"
+    "csvtojson": "^2.0.10",
+    "express": "^4.18.1",
+    "fast-csv": "^2.5.0",
+    "multer": "^1.4.4"
   }
 }
