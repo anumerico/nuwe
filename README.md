@@ -12,5 +12,5 @@ Test, in an other terminal type:
 
 cd nuwe\
 cd test\
-curl -X POST -F "file=@<var>filename.csv</var>" http://localhost:9000/upload-csv
+curl -X POST -F "file=@*`FILENAME`*.csv" http://localhost:9000/upload-csv
 
