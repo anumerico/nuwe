@@ -1,5 +1,6 @@
 # Nuwe Stuff
-API implementing and endpoint that converts CSV files to JSON
+API implementing and endpoint that converts CSV files to JSON\
+Endpoint at /upload-csv
 
 Usage, initialize API:
 
