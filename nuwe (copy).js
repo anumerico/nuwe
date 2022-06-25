@@ -25,7 +25,6 @@ CSVToJSON().fromFile(req.file.path)
 
         // json is a JSON array
         // log the JSON array
-        res.send(json)
         console.log(json);
     }).catch(err => {
         // log error if any
